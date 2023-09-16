@@ -8,13 +8,9 @@ Docker installation:
     - Install [Docker](https://docs.docker.com/get-docker/)
     - Download and run the official [PosgreSQL/PostGIS docker image](https://registry.hub.docker.com/r/postgis/postgis/)
 
-Alternatively, you can perform an installation directly on the host operating system:
-    - [Download](https://www.postgresql.org/download/) the official PostgreSQL installer for your system.
-    - [Install](https://postgis.net/install/) the PostGIS extension
-
 2. **Install `python3.7` and `pip3`**
 
-3. **Install Homebrew and these dependencies:
+3. **Install Homebrew and these dependencies**
     $ brew install postgresql
     $ brew install postgis
     $ brew install gdal
