@@ -11,10 +11,10 @@ Docker installation:
 2. **Install `python3.7` and `pip3`**
 
 3. **Install Homebrew and these dependencies**
-    $ brew install postgresql
-    $ brew install postgis
-    $ brew install gdal
-    $ brew install libgeoip
+   - brew install postgresql
+   - brew install postgis
+   - brew install gdal
+   - brew install libgeoip
 
 4. **Create a python virtual environment using `venv`**
     `python3 -m venv ~/python-virtual-environments/geovillage`
