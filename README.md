@@ -1,5 +1,5 @@
 # Geovillage
-> Community driven delivery platform for the ones who need it the most
+> A platform where users can view nearby stores, create wishlists for essential items, and request assistance from other residents who can act as wishmasters to purchase and deliver those items.
 
 ## Installation Instructions
 
